@@ -14,7 +14,7 @@ MIUI万象息屏时钟会根据环境光调节亮度（只有两档：暗和亮�
 
 
 下载地址：<br>
-[Github](https://github.com/sumver/FixAODForMIUI14/releases/tag/RELEASE) | [123云盘（提取码：BfT5）](https://www.123865.com/s/92jA-VfSAv?提取码:BfT5)
+[Github](https://github.com/sumver/FixAODForMIUI14/releases/tag/RELEASE) | [123云盘（提取码：v7aW）](https://www.123865.com/s/92jA-2xSAv?提取码:v7aW)
 
 
 
