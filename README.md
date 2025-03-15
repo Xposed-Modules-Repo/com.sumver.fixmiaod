@@ -9,7 +9,7 @@ MIUI万象息屏时钟会根据环境光调节亮度（只有两档：暗和亮�
 2、在Xposed框架如LSPosed内作用域勾选万象息屏<br>
 3、强制停止万象息屏app（或者重启一次手机）<br>
 
-![setting](https://github.com/sumver/FixAODForMIUI14/blob/master/app/screenshot/%E8%AE%BE%E7%BD%AE%E5%9B%BE.jpg)
+![setting](https://github.com/Xposed-Modules-Repo/com.sumver.fixmiaod/blob/main/screenshots/%E8%AE%BE%E7%BD%AE%E5%9B%BE.jpg?raw=true)
 
 
 
